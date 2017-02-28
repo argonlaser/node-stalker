@@ -1,0 +1,29 @@
+{
+  "name": "stalker",
+  "version": "1.0.0",
+  "description": "Stalk your code and debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argonlaser/stalker.git"
+  },
+  "keywords": [
+    "stalk",
+    "debug",
+    "log",
+    "line",
+    "number",
+    "function",
+    "name",
+    "file"
+  ],
+  "author": "Venkata krishna Sundararajan (vkvenkat94@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/argonlaser/stalker/issues"
+  },
+  "homepage": "https://github.com/argonlaser/stalker#readme"
+}
