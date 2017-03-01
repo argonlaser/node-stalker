@@ -1,4 +1,4 @@
-var stalk = require('../lib/index.js')
+var stalk = require('../init')
 
 function example () {
   /*

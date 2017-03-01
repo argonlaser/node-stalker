@@ -1,4 +1,4 @@
-var stalk = require('../lib/index')
+var stalk = require('../index.js')
 var assert = require('assert')
 
 describe('#Log the stalked file, function and line', function () {
