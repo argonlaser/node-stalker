@@ -1,4 +1,4 @@
-var stalk = require('../init')
+var stalk = require('../index')
 
 function example () {
   /*
