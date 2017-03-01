@@ -13,6 +13,7 @@ Why node-stalker?
 2) It can be used to log current file, function and line with ease.<br/>
 3) It can log additional optional variables passed to it. <br />
 4) It can save same developer efforts while tracking down the code workflow. <br />
+5) It works in browser as well. <br />
 
 Usage
 =======
