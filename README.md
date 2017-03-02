@@ -1,3 +1,6 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/argonlaser/node-stalker/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/node-stalker)
+
 <h1>Node-Stalker</h1>
 Node-Stalker is a tiny nodejs library that stalks your code and helps you debug.
 
