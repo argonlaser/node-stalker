@@ -24,7 +24,7 @@ stalk()
 ```
 Examples
 =======
-[example.js](https://github.com/argonlaser/node-stalker/examples/example.js)
+[example.js](https://github.com/argonlaser/node-stalker/blob/master/examples/example.js)
 
 To run the example, give:
 ```
